@@ -8,6 +8,7 @@
 
 > A modular minifier, built on top of the [PostCSS](https://github.com/postcss/postcss) ecosystem.
 
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/cssnano/cssnano) 
 [![NPM version](https://img.shields.io/npm/v/cssnano.svg)](https://www.npmjs.org/package/cssnano)
 [![Build Status](https://dev.azure.com/cssnano/cssnano/_apis/build/status/cssnano.cssnano?branchName=master)](https://dev.azure.com/cssnano/cssnano/_build/latest?definitionId=3&branchName=master)
 [![codecov](https://codecov.io/gh/cssnano/cssnano/branch/master/graph/badge.svg)](https://codecov.io/gh/cssnano/cssnano)
